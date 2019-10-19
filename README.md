@@ -1,4 +1,4 @@
-# ZSR-RatarskeKulture
+# ZSR - Ratarske Kulture (agricultural sorts)
 Project for "Zavod za sjemenarstvo i rasadničarstvo", CRO agricultural department (dosn't exist anymore).
 
 It's ERP for official "New agricultural sort registration".
